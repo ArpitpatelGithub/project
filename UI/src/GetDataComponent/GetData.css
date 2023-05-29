@@ -1,0 +1,16 @@
+#catmain
+{
+ height:auto;
+ width:600px;
+}
+
+.catpart
+{
+ height:200px;
+ width:300px;
+ float:left;
+}
+.catpart img
+{
+ border:2px solid black;        
+}
